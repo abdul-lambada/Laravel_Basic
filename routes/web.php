@@ -21,3 +21,8 @@ Route::get('/', function () {
 Route::get('helo', function () {
     return "Selamat Datang di Laravel";
 });
+
+// Contoh ROute dengan View
+Route::get('blog', function () {
+    return view('blog');
+});
