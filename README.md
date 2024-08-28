@@ -1,4 +1,4 @@
-# ![Laravel Basic App](logo.png)
+# ![Laravel Basic ](logo.png)
 
 [![GitHub license](https://img.shields.io/github/license/gothinkster/laravel-realworld-example-app.svg)](https://raw.githubusercontent.com/gothinkster/laravel-realworld-example-app/master/LICENSE)
 
