@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+// Contoh Route Pertama
+Route::get('helo', function () {
+    return "Selamat Datang di Laravel";
+});
