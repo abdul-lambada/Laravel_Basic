@@ -26,3 +26,6 @@ Route::get('helo', function () {
 Route::get('blog', function () {
     return view('blog');
 });
+
+// Route dengan Controller
+ROute::get('dosen', 'App\Http\Controllers\DosenController@index');
